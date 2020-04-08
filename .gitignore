@@ -83,6 +83,12 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
+#carpeta target
+target/
+.idea/
+macowinpractica.iml
+
+
 ### Java ###
 # Compiled class file
 *.class
