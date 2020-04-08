@@ -1,8 +1,4 @@
-//package main.java;
 
-//import main.java.estado.Estado;
-
-//import estado.Prenda;
 import estado.Estado;
 import java.util.ArrayList;
 import java.util.List;
@@ -27,8 +23,4 @@ public class Venta {
 
     }
 
-//
-//    public void setEstado(Estado estado) {
-//        this.estado = estado;
-//    }
 }

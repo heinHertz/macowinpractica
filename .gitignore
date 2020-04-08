@@ -85,7 +85,7 @@ fabric.properties
 
 #carpeta target
 target/
-.idea/
+#.idea/
 macowinpractica.iml
 
 

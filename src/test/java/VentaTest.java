@@ -20,10 +20,7 @@ public class VentaTest  {
     @Test
     public void testTotalVentas() {
 
-
         Venta venta = new Venta();
-
-
 
         Prenda prenda = new Prenda();
 
